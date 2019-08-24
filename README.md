@@ -1,2 +1,4 @@
-# testgit
-for testing  get
+# ALl python work 
+dataset 
+weekly assignments
+
